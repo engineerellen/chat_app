@@ -1,4 +1,4 @@
-﻿using chat_test.Entities;
+﻿ using chat_test.Entities;
 
 namespace chat_test.Services.Stocks
 {
